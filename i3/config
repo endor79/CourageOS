@@ -74,5 +74,5 @@ mode "resize" {
 bindsym $mod+t exec "rofi -show"
 bindsym $mod+c exec "pcmanfm"
 
-exec --no-startup-id feh --bg-fill /usr/share/backgrounds/courage.jpg
+exec --no-startup-id feh --bg-fill ~/.config/i3/wallpaper/courage.jpg
 exec --no-startup-id polybar
