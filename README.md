@@ -37,6 +37,8 @@ mod key = alt
 
 alt+t = rofi
 
+alt+Return = kitty
+
 alt+c = pcmanfm
 
 other shortcuts are the same
