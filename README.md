@@ -52,9 +52,8 @@ root -> courage
 courage -> courage
 
 # Download
-Live ISO image: https://sourceforge.net/projects/courageos/files/courageos_live-amd64.iso/download
 
-Checksum: https://sourceforge.net/projects/courageos/files/checksum/
+[![Download CourageOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/courageos/files/latest/download)
 
 # images
 ![1boot](https://user-images.githubusercontent.com/105305285/186544344-730de591-2357-472c-921d-1ef7c5533e55.png)
