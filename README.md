@@ -55,6 +55,8 @@ courage -> courage
 
 [![Download CourageOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/courageos/files/latest/download)
 
+[![Download CourageOS](https://img.shields.io/sourceforge/dt/courageos.svg)](https://sourceforge.net/projects/courageos/files/latest/download)
+
 # images
 ![1boot](https://user-images.githubusercontent.com/105305285/186544344-730de591-2357-472c-921d-1ef7c5533e55.png)
 
